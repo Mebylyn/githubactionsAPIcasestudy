@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3d4k)@p2cgo!g8dxnca#eunzv77^-tzrbq-wu)l-553=caq*!z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['assetapirubianes.azurewebsites.net', '127.0.0.1']
+ALLOWED_HOSTS = ['assetapirubianes.azurewebsites.net', '127.0.0.1', 'githubactionsnextjsapi.azurewebsites.net']
 
 
 # Application definition
